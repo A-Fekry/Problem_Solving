@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\problem of team\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99017E16-E9C0-4195-8971-6A0801775CAA}|problem of team.vcxproj|D:\\problems\\problem of team\\problem of team.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99017E16-E9C0-4195-8971-6A0801775CAA}|problem of team.vcxproj|solutionrelative:problem of team.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 177,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem of team.cpp",
+              "DocumentMoniker": "D:\\problems\\problem of team\\problem of team.cpp",
+              "RelativeDocumentMoniker": "problem of team.cpp",
+              "ToolTip": "D:\\problems\\problem of team\\problem of team.cpp",
+              "RelativeToolTip": "problem of team.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T04:27:16.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\stones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFA8FE-76A2-4BFA-9F8F-4C4D631696DD}|stones.vcxproj|D:\\problems\\stones\\stones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50CFA8FE-76A2-4BFA-9F8F-4C4D631696DD}|stones.vcxproj|solutionrelative:stones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 472,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stones.cpp",
+              "DocumentMoniker": "D:\\problems\\stones\\stones.cpp",
+              "RelativeDocumentMoniker": "stones.cpp",
+              "ToolTip": "D:\\problems\\stones\\stones.cpp",
+              "RelativeToolTip": "stones.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T03:19:31.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

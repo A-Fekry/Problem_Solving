@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\A. Wasted Time\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{067A8DC3-CC52-44E8-BD0F-727EFD013BE5}|A. Wasted Time.vcxproj|D:\\problems\\A. Wasted Time\\A. Wasted Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{067A8DC3-CC52-44E8-BD0F-727EFD013BE5}|A. Wasted Time.vcxproj|solutionrelative:A. Wasted Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A. Wasted Time.cpp",
+              "DocumentMoniker": "D:\\problems\\A. Wasted Time\\A. Wasted Time.cpp",
+              "RelativeDocumentMoniker": "A. Wasted Time.cpp",
+              "ToolTip": "D:\\problems\\A. Wasted Time\\A. Wasted Time.cpp",
+              "RelativeToolTip": "A. Wasted Time.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T02:45:16.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

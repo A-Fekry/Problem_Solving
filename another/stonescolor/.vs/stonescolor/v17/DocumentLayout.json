@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\stonescolor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14AA18-722C-443D-A1CF-B16390B5BFB4}|stonescolor.vcxproj|D:\\problems\\stonescolor\\stonescolor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA14AA18-722C-443D-A1CF-B16390B5BFB4}|stonescolor.vcxproj|solutionrelative:stonescolor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 472,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stonescolor.cpp",
+              "DocumentMoniker": "D:\\problems\\stonescolor\\stonescolor.cpp",
+              "RelativeDocumentMoniker": "stonescolor.cpp",
+              "ToolTip": "D:\\problems\\stonescolor\\stonescolor.cpp",
+              "RelativeToolTip": "stonescolor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T10:59:35.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  A. Wasted Time.cpp
+D:\problems\A. Wasted Time\A. Wasted Time.cpp(18,19): warning C4244: 'initializing': conversion from 'long double' to 'size_t', possible loss of data
+  A. Wasted Time.vcxproj -> D:\problems\A. Wasted Time\x64\Debug\A. Wasted Time.exe

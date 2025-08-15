@@ -1,0 +1,13 @@
+﻿  cakesoven.cpp
+D:\problems\cakesoven\cakesoven.cpp(11,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(11,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(11,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(11,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(11,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(11,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(11,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(16,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(16,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(16,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\problems\cakesoven\cakesoven.cpp(16,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  cakesoven.vcxproj -> D:\problems\cakesoven\x64\Debug\cakesoven.exe

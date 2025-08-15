@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\B. Escape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B5E1D7-B322-49E1-9CA8-8131DE04B221}|B. Escape.vcxproj|D:\\problems\\B. Escape\\B. Escape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69B5E1D7-B322-49E1-9CA8-8131DE04B221}|B. Escape.vcxproj|solutionrelative:B. Escape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B. Escape.cpp",
+              "DocumentMoniker": "D:\\problems\\B. Escape\\B. Escape.cpp",
+              "RelativeDocumentMoniker": "B. Escape.cpp",
+              "ToolTip": "D:\\problems\\B. Escape\\B. Escape.cpp",
+              "RelativeToolTip": "B. Escape.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T07:22:46.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

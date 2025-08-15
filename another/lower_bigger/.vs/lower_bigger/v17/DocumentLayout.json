@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\lower_bigger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD54531F-47E0-4503-B7C2-392A1E0366A6}|lower_bigger.vcxproj|D:\\problems\\lower_bigger\\lower_bigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD54531F-47E0-4503-B7C2-392A1E0366A6}|lower_bigger.vcxproj|solutionrelative:lower_bigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 472,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lower_bigger.cpp",
+              "DocumentMoniker": "D:\\problems\\lower_bigger\\lower_bigger.cpp",
+              "RelativeDocumentMoniker": "lower_bigger.cpp",
+              "ToolTip": "D:\\problems\\lower_bigger\\lower_bigger.cpp",
+              "RelativeToolTip": "lower_bigger.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T07:37:08.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  B. Keyboard22.cpp
+D:\problems\B. Keyboard22\B. Keyboard22.cpp(65,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  B. Keyboard22.vcxproj -> D:\problems\B. Keyboard22\x64\Debug\B. Keyboard22.exe

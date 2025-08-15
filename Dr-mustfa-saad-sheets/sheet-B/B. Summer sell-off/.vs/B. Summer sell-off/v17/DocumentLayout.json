@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\B. Summer sell-off\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6596D44E-2663-4EA5-9D52-527E464ED1A1}|B. Summer sell-off.vcxproj|D:\\problems\\B. Summer sell-off\\B. Summer sell-off.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6596D44E-2663-4EA5-9D52-527E464ED1A1}|B. Summer sell-off.vcxproj|solutionrelative:B. Summer sell-off.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B. Summer sell-off.cpp",
+              "DocumentMoniker": "D:\\problems\\B. Summer sell-off\\B. Summer sell-off.cpp",
+              "RelativeDocumentMoniker": "B. Summer sell-off.cpp",
+              "ToolTip": "D:\\problems\\B. Summer sell-off\\B. Summer sell-off.cpp",
+              "RelativeToolTip": "B. Summer sell-off.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T03:18:27.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

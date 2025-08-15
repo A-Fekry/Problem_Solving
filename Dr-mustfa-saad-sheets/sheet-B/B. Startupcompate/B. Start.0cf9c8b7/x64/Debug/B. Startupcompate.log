@@ -1,0 +1,3 @@
+﻿  B. Startupcompate.cpp
+D:\problems\B. Startupcompate\B. Startupcompate.cpp(47,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  B. Startupcompate.vcxproj -> D:\problems\B. Startupcompate\x64\Debug\B. Startupcompate.exe

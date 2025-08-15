@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\problems\ConsoleApplication1\ConsoleApplication1.cpp(15,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\problems\ConsoleApplication1\ConsoleApplication1.cpp(15,14): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\problems\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

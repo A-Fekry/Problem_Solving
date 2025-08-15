@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\A. Shohag Loves Mod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E853EC-757B-46F9-9EE8-2837A47E9126}|A. Shohag Loves Mod.vcxproj|D:\\problems\\A. Shohag Loves Mod\\A. Shohag Loves Mod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0E853EC-757B-46F9-9EE8-2837A47E9126}|A. Shohag Loves Mod.vcxproj|solutionrelative:A. Shohag Loves Mod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A. Shohag Loves Mod.cpp",
+              "DocumentMoniker": "D:\\problems\\A. Shohag Loves Mod\\A. Shohag Loves Mod.cpp",
+              "RelativeDocumentMoniker": "A. Shohag Loves Mod.cpp",
+              "ToolTip": "D:\\problems\\A. Shohag Loves Mod\\A. Shohag Loves Mod.cpp",
+              "RelativeToolTip": "A. Shohag Loves Mod.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T14:44:31.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

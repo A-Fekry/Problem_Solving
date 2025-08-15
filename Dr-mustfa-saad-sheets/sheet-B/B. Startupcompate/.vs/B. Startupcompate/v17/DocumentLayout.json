@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\B. Startupcompate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF9C8B7-64A3-4B3E-A4C3-B01BCE0C95CB}|B. Startupcompate.vcxproj|D:\\problems\\B. Startupcompate\\B. Startupcompate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CF9C8B7-64A3-4B3E-A4C3-B01BCE0C95CB}|B. Startupcompate.vcxproj|solutionrelative:B. Startupcompate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B. Startupcompate.cpp",
+              "DocumentMoniker": "D:\\problems\\B. Startupcompate\\B. Startupcompate.cpp",
+              "RelativeDocumentMoniker": "B. Startupcompate.cpp",
+              "ToolTip": "D:\\problems\\B. Startupcompate\\B. Startupcompate.cpp",
+              "RelativeToolTip": "B. Startupcompate.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T15:00:56.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

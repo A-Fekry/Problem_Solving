@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C. King's Path", "C. King's Path.vcxproj", "{561F6E73-F253-4855-8CA6-12F62EEE287A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561F6E73-F253-4855-8CA6-12F62EEE287A}.Debug|x64.ActiveCfg = Debug|x64
+		{561F6E73-F253-4855-8CA6-12F62EEE287A}.Debug|x64.Build.0 = Debug|x64
+		{561F6E73-F253-4855-8CA6-12F62EEE287A}.Debug|x86.ActiveCfg = Debug|Win32
+		{561F6E73-F253-4855-8CA6-12F62EEE287A}.Debug|x86.Build.0 = Debug|Win32
+		{561F6E73-F253-4855-8CA6-12F62EEE287A}.Release|x64.ActiveCfg = Release|x64
+		{561F6E73-F253-4855-8CA6-12F62EEE287A}.Release|x64.Build.0 = Release|x64
+		{561F6E73-F253-4855-8CA6-12F62EEE287A}.Release|x86.ActiveCfg = Release|Win32
+		{561F6E73-F253-4855-8CA6-12F62EEE287A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01D42EA3-E507-4FF3-AA17-3FC4B66344E8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿  B. Burning Midnight Oil.cpp
+D:\problems\B. Burning Midnight Oil\B. Burning Midnight Oil.cpp(19,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\problems\B. Burning Midnight Oil\B. Burning Midnight Oil.cpp(22,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\problems\B. Burning Midnight Oil\B. Burning Midnight Oil.cpp(45,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\problems\B. Burning Midnight Oil\B. Burning Midnight Oil.cpp(54,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\problems\B. Burning Midnight Oil\B. Burning Midnight Oil.cpp(60,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\problems\B. Burning Midnight Oil\B. Burning Midnight Oil.cpp(63,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  B. Burning Midnight Oil.vcxproj -> D:\problems\B. Burning Midnight Oil\x64\Debug\B. Burning Midnight Oil.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\problem 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45EA1E81-31FB-4CD1-8270-71599A3F1F67}|problem 3.vcxproj|D:\\problems\\problem 3\\problem 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45EA1E81-31FB-4CD1-8270-71599A3F1F67}|problem 3.vcxproj|solutionrelative:problem 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 177,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem 3.cpp",
+              "DocumentMoniker": "D:\\problems\\problem 3\\problem 3.cpp",
+              "RelativeDocumentMoniker": "problem 3.cpp",
+              "ToolTip": "D:\\problems\\problem 3\\problem 3.cpp",
+              "RelativeToolTip": "problem 3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T04:18:25.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

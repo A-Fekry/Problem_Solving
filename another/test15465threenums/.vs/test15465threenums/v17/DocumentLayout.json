@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\test15465threenums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E66E08-0BEE-4A3F-A6F3-65AAC9C89F84}|test15465threenums.vcxproj|D:\\problems\\test15465threenums\\test15465threenums.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44E66E08-0BEE-4A3F-A6F3-65AAC9C89F84}|test15465threenums.vcxproj|solutionrelative:test15465threenums.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\problems\\z-threenumbersasuit\\z-threenumbersasuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "z-threenumbersasuit.cpp",
+              "DocumentMoniker": "D:\\problems\\z-threenumbersasuit\\z-threenumbersasuit.cpp",
+              "RelativeDocumentMoniker": "..\\z-threenumbersasuit\\z-threenumbersasuit.cpp",
+              "ToolTip": "D:\\problems\\z-threenumbersasuit\\z-threenumbersasuit.cpp",
+              "RelativeToolTip": "..\\z-threenumbersasuit\\z-threenumbersasuit.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T15:24:02.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test15465threenums.cpp",
+              "DocumentMoniker": "D:\\problems\\test15465threenums\\test15465threenums.cpp",
+              "RelativeDocumentMoniker": "test15465threenums.cpp",
+              "ToolTip": "D:\\problems\\test15465threenums\\test15465threenums.cpp",
+              "RelativeToolTip": "test15465threenums.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T15:23:28.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

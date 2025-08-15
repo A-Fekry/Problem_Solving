@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\A. Ksenia and Pan Scales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DB69E9-A534-4510-A7AB-E5942FEC55EF}|A. Ksenia and Pan Scales.vcxproj|D:\\problems\\A. Ksenia and Pan Scales\\A. Ksenia and Pan Scales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75DB69E9-A534-4510-A7AB-E5942FEC55EF}|A. Ksenia and Pan Scales.vcxproj|solutionrelative:A. Ksenia and Pan Scales.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A. Ksenia and Pan Scales.cpp",
+              "DocumentMoniker": "D:\\problems\\A. Ksenia and Pan Scales\\A. Ksenia and Pan Scales.cpp",
+              "RelativeDocumentMoniker": "A. Ksenia and Pan Scales.cpp",
+              "ToolTip": "D:\\problems\\A. Ksenia and Pan Scales\\A. Ksenia and Pan Scales.cpp",
+              "RelativeToolTip": "A. Ksenia and Pan Scales.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T14:21:14.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

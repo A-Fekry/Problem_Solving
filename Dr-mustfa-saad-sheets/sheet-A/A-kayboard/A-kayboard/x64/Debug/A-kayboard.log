@@ -1,0 +1,4 @@
+﻿  A-kayboard.cpp
+D:\problems\A-kayboard\A-kayboard.cpp(13,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\problems\A-kayboard\A-kayboard.cpp(18,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  A-kayboard.vcxproj -> D:\problems\A-kayboard\x64\Debug\A-kayboard.exe

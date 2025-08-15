@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\socend problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59063910-6CAC-4EF1-9CC0-D0DD6FEF477F}|socend problem.vcxproj|D:\\problems\\socend problem\\socend problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59063910-6CAC-4EF1-9CC0-D0DD6FEF477F}|socend problem.vcxproj|solutionrelative:socend problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 472,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "socend problem.cpp",
+              "DocumentMoniker": "D:\\problems\\socend problem\\socend problem.cpp",
+              "RelativeDocumentMoniker": "socend problem.cpp",
+              "ToolTip": "D:\\problems\\socend problem\\socend problem.cpp",
+              "RelativeToolTip": "socend problem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T04:00:31.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 177,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

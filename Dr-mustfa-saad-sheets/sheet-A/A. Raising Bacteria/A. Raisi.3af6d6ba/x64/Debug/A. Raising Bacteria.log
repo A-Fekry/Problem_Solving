@@ -1,0 +1,4 @@
+﻿  A. Raising Bacteria.cpp
+D:\problems\A. Raising Bacteria\A. Raising Bacteria.cpp(13,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\problems\A. Raising Bacteria\A. Raising Bacteria.cpp(14,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  A. Raising Bacteria.vcxproj -> D:\problems\A. Raising Bacteria\x64\Debug\A. Raising Bacteria.exe

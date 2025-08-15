@@ -1,0 +1,5 @@
+﻿  B. Summer sell-off.cpp
+D:\problems\B. Summer sell-off\B. Summer sell-off.cpp(28,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\problems\B. Summer sell-off\B. Summer sell-off.cpp(44,41): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\problems\B. Summer sell-off\B. Summer sell-off.cpp(52,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  B. Summer sell-off.vcxproj -> D:\problems\B. Summer sell-off\x64\Debug\B. Summer sell-off.exe

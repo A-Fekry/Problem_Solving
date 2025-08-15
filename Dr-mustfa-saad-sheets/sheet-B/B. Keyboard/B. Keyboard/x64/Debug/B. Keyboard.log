@@ -1,0 +1,3 @@
+﻿  B. Keyboard.cpp
+D:\problems\B. Keyboard\B. Keyboard.cpp(79,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  B. Keyboard.vcxproj -> D:\problems\B. Keyboard\x64\Debug\B. Keyboard.exe
