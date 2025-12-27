@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Meeting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2C6913-B2EF-4B8F-BAD9-3CE8D43BBDE6}|B. Meeting.vcxproj|D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Meeting\\B. Meeting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB2C6913-B2EF-4B8F-BAD9-3CE8D43BBDE6}|B. Meeting.vcxproj|solutionrelative:B. Meeting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B. Meeting.cpp",
+              "DocumentMoniker": "D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Meeting\\B. Meeting.cpp",
+              "RelativeDocumentMoniker": "B. Meeting.cpp",
+              "ToolTip": "D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Meeting\\B. Meeting.cpp",
+              "RelativeToolTip": "B. Meeting.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-27T05:33:21.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  B. Meeting.cpp
+D:\problems\Dr-mustfa-saad-sheets\sheet-B\B. Meeting\B. Meeting.cpp(53,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\problems\Dr-mustfa-saad-sheets\sheet-B\B. Meeting\B. Meeting.cpp(54,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  B. Meeting.vcxproj -> D:\problems\Dr-mustfa-saad-sheets\sheet-B\B. Meeting\x64\Debug\B. Meeting.exe
