@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Jeff and Periods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{643171E0-44E2-4856-9A73-6EEC27869DA7}|B. Jeff and Periods.vcxproj|D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Jeff and Periods\\B. Jeff and Periods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{643171E0-44E2-4856-9A73-6EEC27869DA7}|B. Jeff and Periods.vcxproj|solutionrelative:B. Jeff and Periods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B. Jeff and Periods.cpp",
+              "DocumentMoniker": "D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Jeff and Periods\\B. Jeff and Periods.cpp",
+              "RelativeDocumentMoniker": "B. Jeff and Periods.cpp",
+              "ToolTip": "D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Jeff and Periods\\B. Jeff and Periods.cpp*",
+              "RelativeToolTip": "B. Jeff and Periods.cpp*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-27T04:46:56.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

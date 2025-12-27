@@ -1,54 +1,52 @@
-#include <bits/stdc++.h> // includes everything
+#include <iostream>
+#include <vector>
+struct MyStruct
+{
+    int value;
+    int step;
+};
 using namespace std;
 
-typedef long long ll;
-
-void fast() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-}
-
-vector<vector<int>> seq(1e5 + 9);
-vector<pair<int, int>> ans;
-
-int main() {
-    fast();
-
-    int n, x;
+int main()
+{
+    int n;
     cin >> n;
-
+    vector < vector<int> > vec(100001);
+    vector <MyStruct> vo;
     for (int i = 0; i < n; i++) {
-        scanf("%d", &x);
-        seq[x].push_back(i);
+        int m;
+        cin >> m;
+        vec[m].push_back(i + 1);
     }
-
-    for (int i = 0; i < 100000; i++) {
-        if (seq[i].empty()) {
+    MyStruct x;
+    for (int i = 1; i <= 100000; i++) {
+        if (vec[i].size() == 0) {
             continue;
         }
-        else if (seq[i].size() == 1) {
-            ans.push_back({ i, 0 });
-        }
-        else if (seq[i].size() == 2) {
-            ans.push_back({ i, seq[i][1] - seq[i][0] });
+        else if (vec[i].size() == 1) {
+            x.value = i;
+            x.step = 0;
+            vo.push_back(x);
         }
         else {
-            bool flag = true;
-            for (size_t j = 2; j < seq[i].size(); j++) {
-                if (seq[i][j] - seq[i][j - 1] != seq[i][j - 1] - seq[i][j - 2]) {
-                    flag = false;
+            int step = vec[i][1] - vec[i][0];
+            bool isOk = true;
+            for (int j = 1; j < vec[i].size() - 1; j++) {
+                if (vec[i][j + 1] - vec[i][j] != step) {
+                    isOk = false;
                     break;
-                }
+                } 
             }
-            if (flag) {
-                ans.push_back({ i, seq[i][1] - seq[i][0] });
+            if (isOk) {
+                x.value = i;
+                x.step = step;
+                vo.push_back(x);
             }
         }
     }
-
-    cout << ans.size() << "\n";
-
-    for (size_t i = 0; i < ans.size(); i++) {
-        printf("%d %d\n", ans[i].first, ans[i].second);
+    cout << vo.size() << endl;
+    for (int i = 0; i < vo.size(); i++) {
+        cout << vo[i].value << " " << vo[i].step << endl;
     }
 }
+
