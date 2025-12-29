@@ -1,0 +1,6 @@
+﻿  B. New Year Cake.cpp
+D:\problems\contests\Educational Codeforces Round 186\B. New Year Cake\B. New Year Cake.cpp(23,27): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\problems\contests\Educational Codeforces Round 186\B. New Year Cake\B. New Year Cake.cpp(30,28): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\problems\contests\Educational Codeforces Round 186\B. New Year Cake\B. New Year Cake.cpp(42,28): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\problems\contests\Educational Codeforces Round 186\B. New Year Cake\B. New Year Cake.cpp(50,27): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  B. New Year Cake.vcxproj -> D:\problems\contests\Educational Codeforces Round 186\B. New Year Cake\x64\Debug\B. New Year Cake.exe
