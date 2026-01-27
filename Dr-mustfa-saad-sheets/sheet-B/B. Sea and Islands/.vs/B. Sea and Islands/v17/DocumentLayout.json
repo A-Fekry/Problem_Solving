@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Sea and Islands\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF50385-FB63-45F3-A69F-7D4782571237}|B. Sea and Islands.vcxproj|D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Sea and Islands\\B. Sea and Islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BF50385-FB63-45F3-A69F-7D4782571237}|B. Sea and Islands.vcxproj|solutionrelative:B. Sea and Islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B. Sea and Islands.cpp",
+              "DocumentMoniker": "D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Sea and Islands\\B. Sea and Islands.cpp",
+              "RelativeDocumentMoniker": "B. Sea and Islands.cpp",
+              "ToolTip": "D:\\problems\\Dr-mustfa-saad-sheets\\sheet-B\\B. Sea and Islands\\B. Sea and Islands.cpp",
+              "RelativeToolTip": "B. Sea and Islands.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-27T04:39:44.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
